@@ -1,0 +1,4 @@
+#Tue Jan 05 20:03:31 EET 2021
+base.0=C\:\\Users\\Ibraheem\\AndroidStudioProjects\\final-sanai3i-main\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

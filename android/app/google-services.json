@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1077346810316",
+    "firebase_url": "https://sanai3ieslamahmedibraheem.firebaseio.com",
+    "project_id": "sanai3ieslamahmedibraheem",
+    "storage_bucket": "sanai3ieslamahmedibraheem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077346810316:android:0e898482d2490543400569",
+        "android_client_info": {
+          "package_name": "com.eslamKhaledZain04168.sanay3i"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077346810316-0b23ihf3ffreljflnr21nqpo23agmn1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwHpj-Q8zarNu06g6SsP48DU7M_Auvn0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077346810316-0b23ihf3ffreljflnr21nqpo23agmn1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

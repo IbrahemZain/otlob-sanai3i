@@ -1,0 +1,24 @@
+# This is a generated file; do not edit or check into version control.
+admob_flutter=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\admob_flutter-1.0.1\\
+cloud_firestore=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.14.4\\
+cloud_firestore_web=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore_web-0.2.1+2\\
+connectivity=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\connectivity-0.4.9+5\\
+connectivity_for_web=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\connectivity_for_web-0.3.1+4\\
+connectivity_macos=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\connectivity_macos-0.1.0+7\\
+firebase_core=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.5.3\\
+firebase_core_web=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-0.2.1+1\\
+flutter_plugin_android_lifecycle=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-1.0.11\\
+geolocator=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geolocator-6.1.13\\
+image_picker=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\image_picker-0.6.7+17\\
+path_provider_linux=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_linux-0.0.1+2\\
+path_provider_windows=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_windows-0.0.4+3\\
+shared_preferences=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences-0.5.12+4\\
+shared_preferences_linux=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_linux-0.0.2+4\\
+shared_preferences_macos=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_macos-0.0.1+11\\
+shared_preferences_web=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_web-0.1.2+7\\
+shared_preferences_windows=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_windows-0.0.1+3\\
+url_launcher=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher-5.7.10\\
+url_launcher_linux=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher_linux-0.0.1+4\\
+url_launcher_macos=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher_macos-0.0.1+9\\
+url_launcher_web=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher_web-0.1.5+1\\
+url_launcher_windows=E:\\FCI\\Programs\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher_windows-0.0.1+3\\
